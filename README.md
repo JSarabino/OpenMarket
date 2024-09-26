@@ -34,7 +34,7 @@ La empresa Colombo-Argentina Digital Asociados SA, está interesada en lanzar al
   c. Entregar producto al comprador
 ## Propuesta de División:
 ### Modelo Preliminar Minimalista de Clases de Negocio por Subdominios (Cada color representa un subdominio)
-
+![Modelo Preliminar de Clases](ModeloPreliminar.png)
 
 ## Consideraciones de la arquitectura de software
 La aplicación a desarrollar está compuesta por un microservicio por cada color expresado en Modelo General y que serán los siguientes:
